@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtirG
-- 👀 I’m interested in combining programming and nature.
-- 🌱 I’m currently learning .python
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on python projects 
 - 📫 How to reach me ...
 
